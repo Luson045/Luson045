@@ -1,4 +1,4 @@
-# **Luson Basumatary | Data Scientist & Full Stack Developer**
+# **Luson Basumatary | Data Science Enthusiast & Full Stack Developer**
 
 Welcome to my GitHub profile. I'm a passionate developer with a focus on **Data Science**, **MERN Stack**, **Computer Vision**, and **PHP Development**. Below is a glimpse of my skills, contributions, and how to reach me.
 
