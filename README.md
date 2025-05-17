@@ -8,12 +8,70 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Luson045&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luson045&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180em"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=Luson045&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luson045&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/> </div>
 <div align="center">🏆 GitHub Trophies</div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Luson045&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/> </div>
-<div align="center">🔥 Featured Projects</div>
-<div align="center"> <a href="https://learnstocks.netlify.app/"> <img src="https://img.shields.io/badge/Learn_Stocks-0D1117?style=for-the-badge&logo=webpack&logoColor=white" alt="Learn Stocks"/> </a> <a href="https://prodez-ai.netlify.app/"> <img src="https://img.shields.io/badge/ProdEz-0D1117?style=for-the-badge&logo=google&logoColor=white" alt="ProdEz"/> </a> <a href="https://github.com/Luson045/Opencv-whack-the-mole-game"> <img src="https://img.shields.io/badge/OpenCV_Whack_The_Mole-0D1117?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Game"/> </a> </div> <div align="center"> <h3>Learn Stocks</h3> <p>A simulated stock trading platform with real-time data visualization and market analysis tools. Built with React, Node.js, and financial APIs.</p> <h3>ProdEz</h3> <p>AI-powered productivity application leveraging Google's Gemini for content generation, task automation, and smart scheduling features.</p> <h3>OpenCV Whack-The-Mole</h3> <p>Interactive computer vision game using hand gestures for gameplay, demonstrating practical applications of image processing and motion tracking.</p> </div>
-<div align="center">👨‍💻 Professional Roles</div>
-<div align="center"> <table> <tr> <td> <strong>🧠 Machine Learning Engineer</strong><br> Designing and implementing ML models for computer vision and NLP tasks. Experience with TensorFlow, PyTorch, and deploying models to production. </td> <td> <strong>💻 Full Stack Developer</strong><br> Building end-to-end web applications with MERN stack. Creating responsive, accessible, and performant user interfaces. </td> </tr> <tr> <td> <strong>👁️ Computer Vision Specialist</strong><br> Developing image processing applications using OpenCV and deep learning frameworks for object detection, recognition, and tracking. </td> <td> <strong>🔍 Data Scientist</strong><br> Analyzing complex datasets, creating predictive models, and extracting actionable insights to drive business decisions. </td> </tr> </table> </div>
-<div align="center">📈 Coding Activity</div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Luson045&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Wakatime Stats"/> </div>
-<div align="center">📝 Latest Blog Posts</div>
-<div align="center"> <!-- BLOG-POST-LIST:START --> <!-- Add your blog posts workflow here --> <!-- BLOG-POST-LIST:END --> </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Luson045&style=flat-square&color=58A6FF" alt="Profile Views"/> <h4>💖 Thank you for visiting my profile! 💖</h4> <img src="https://raw.githubusercontent.com/Luson045/Luson045/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </div>
+<br>
+
+<div align="center">📌 <strong>Featured Projects</strong></div>
+<br/><br/>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="48%">
+      <a href="https://github.com/Luson045/medi-connect" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luson045&repo=medi-connect&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="48%">
+      <a href="https://github.com/Luson045/AMS-with-TimeTable" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luson045&repo=AMS-with-TimeTable&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="48%">
+      <a href="https://github.com/Luson045/spam_detection_lstm_model" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luson045&repo=spam_detection_lstm_model&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="48%">
+      <a href="https://github.com/Luson045/Opencv-whack-the-mole-game" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luson045&repo=Opencv-whack-the-mole-game&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+<!-- You can add project cards or images here in the future -->
+
+<br>
+
+<div align="center">📈 <strong>GitHub Stats</strong></div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luson045&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180em" alt="Luson's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luson045&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180em" alt="Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Luson045&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF5733&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">🎯 <strong>Currently Learning</strong></div>
+
+<p align="center">
+  🧠 Deep Learning | 🕸️ Microservices | 🗺️ Geospatial Intelligence | ⛅ Cloud Architecture
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Luson045&style=flat-square&color=58A6FF" alt="Profile Views"/>
+</div>
